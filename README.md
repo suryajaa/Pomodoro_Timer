@@ -65,13 +65,6 @@ pomodoro-timer-node
 
 ---
 
-## 💡 Future Enhancements
-- 🔔 **Sound notifications** when the timer ends
-- 🌙 **Dark mode toggle**
-- 🕒 **Customizable timer settings** (Work & Break duration)
-
----
-
 ## 🏆 Acknowledgments
 Inspired by the **Pomodoro Technique** to improve productivity. 🚀
 
