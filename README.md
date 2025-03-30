@@ -16,8 +16,7 @@ This is a **simple yet aesthetic Pomodoro Timer** built with **HTML, CSS, JavaSc
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/pomodoro-timer-node.git
-cd pomodoro-timer-node
+https://github.com/suryajaa/Pomodoro_Timer.git
 ```
 
 ### 2️⃣ Install dependencies
