@@ -1,5 +1,3 @@
-# Pomodoro_Timer
-
 # Pomodoro Timer (Node.js & Express)
 
 ## 📌 Overview
